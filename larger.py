@@ -1,0 +1,9 @@
+akshu=input()
+papuu=input()
+amma=input()
+if((akshu>=papuu)and(akshu>=amma)):
+  print(akshu)
+elif((papuu>=akshu)and(pappu>=amma)):
+  print(papuu)
+else:
+  print(amma)
